@@ -1,0 +1,1076 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPDuplicator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-13 21:16-0700\n"
+"PO-Revision-Date: 2014-08-08 19:13+0100\n"
+"Last-Translator: Roland Lemminga <roland.lemminga@home.nl>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ./\n"
+"X-Generator: Poedit 1.6.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: nl_NL\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../duplicator.php:198 ../inc/page.about.php:141
+msgid "FAQ"
+msgstr "FAQ"
+
+#: ../duplicator.php:199
+msgid "Partner"
+msgstr "Partner"
+
+#: ../duplicator.php:200
+msgid "Approved Hosts"
+msgstr "Goedgekeurde Host"
+
+#: ../duplicator.php:250 ../inc/page.main.php:32
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: ../duplicator.php:252 ../inc/page.diag.php:21
+msgid "Diagnostics"
+msgstr "Diagnostiek"
+
+#: ../duplicator.php:253 ../inc/page.about.php:21 ../inc/page.diag.php:25
+#: ../inc/page.main.php:36 ../inc/page.support.php:10
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: ../duplicator.php:254 ../inc/page.diag.php:26 ../inc/page.main.php:37
+#: ../inc/page.support.php:14
+msgid "All About"
+msgstr "Over"
+
+#: ../duplicator.php:288
+msgid "Manage"
+msgstr "Beheer"
+
+#: ../installer/log-read.php:45
+msgid "Log file not found or unreadable"
+msgstr "Logbestand niet gevonden of onleesbaar"
+
+#: ../installer/log-read.php:47
+msgid ""
+"The log file for the Duplicator Plugin can be found in the snapshots "
+"directory with the extension *.log"
+msgstr ""
+"Het logbestand voor de Duplicator Plugin kan gevonden worden in de "
+"momentopname directorie met de extensie *.log"
+
+#: ../installer/log-read.php:48
+msgid "If no log file is present the try to create a package"
+msgstr "Als er geen logbestand is, gaan ze proberen om een pakket te maken"
+
+#: ../installer/log-read.php:50
+msgid "Reasons for log file not showing"
+msgstr "Reden voor logbestand wordt niet vertoond"
+
+#: ../installer/log-read.php:51
+msgid "The web server does not support returning .log file extentions"
+msgstr ""
+"De web server geeft geen ondersteuning voor terugkeren .log file extensies"
+
+#: ../installer/log-read.php:52
+msgid ""
+"The snapshots directory does not have the correct permissions to write "
+"files.  Try setting the permissions to 755"
+msgstr ""
+"De momentopname directorie heeft niet de juiste permissies om bestanden te "
+"schrijven, Probeer de permissie instelling op 755 te zetten"
+
+#: ../installer/log-read.php:53
+msgid ""
+"The process that PHP runs under does not have enough permissions to create "
+"files.  Please contact your hosting provider for more details"
+msgstr ""
+"Het proces dat PHP draait, heeft niet genoeg rechten om bestanden te maken. "
+"Neem dan contact op met uw hosting provider voor meer informatie"
+
+#: ../installer/log-view.php:100
+msgid "Duplicator: Create Package Log"
+msgstr "Duplicator: Creëer Pakket Log"
+
+#: ../installer/log-view.php:103
+msgid ""
+"Processing may take several minutes, please wait for progress bar to "
+"complete on the main status bar"
+msgstr ""
+"Verwerking kan enkele minuten duren, wacht op de voortgangsbalk, op de "
+"statusbalk,  om te voltooien"
+
+#: ../installer/log-view.php:108
+msgid "Auto Refresh"
+msgstr "Auto Vernieuwen"
+
+#: ../installer/log-view.php:109
+msgid "Refresh"
+msgstr "Vernieuwen"
+
+#: ../installer/log-view.php:117
+msgid "Support Center"
+msgstr "Ondersteuning Centrum"
+
+#: ../installer/log-view.php:118
+msgid ""
+"Do NOT post this data to public sites like the WordPress.org forums as it "
+"contains sensitive data."
+msgstr ""
+"Plaats NIET deze data op publieke sites, zoals de Wordpress.org forums, het "
+"bevat gevoelige data."
+
+#: ../inc/javascript.php:133
+msgid "Saving"
+msgstr "Bewaren"
+
+#: ../inc/javascript.php:154
+msgid "Please select at least one package to delete."
+msgstr "Selecteer op z'n minst één pakket om te verwijderen."
+
+#: ../inc/javascript.php:158
+msgid "Are you sure, you want to delete the selected package(s)?"
+msgstr "Weet je zeker, om deze geselecteerde pakket te verwijderen?"
+
+#: ../inc/javascript.php:174 ../inc/javascript.php:213
+#: ../inc/javascript.php:322 ../inc/javascript.php:422
+#: ../inc/javascript.php:441
+msgid "Ready to create new package."
+msgstr "Gereed om een nieuwe pakket te maken."
+
+#: ../inc/javascript.php:189
+msgid "Please enter a backup name."
+msgstr "Voer a.u.b. een back-up naam in."
+
+#: ../inc/javascript.php:197
+msgid "Alpanumeric characters only on package name"
+msgstr "Alleen alfanumeriek tekens als naam van het pakket"
+
+#: ../inc/javascript.php:210
+msgid "Evaluating WordPress Setup. Please Wait"
+msgstr "Evalueren van WordPress Setup. Even wachten a.u.b."
+
+#: ../inc/javascript.php:276
+msgid "Cancel"
+msgstr "Annuleer"
+
+#: ../inc/javascript.php:282
+msgid "Create Package Set"
+msgstr "Creëer Pakket Set"
+
+#: ../inc/javascript.php:327
+msgid "Checking System Status.  Please Wait!"
+msgstr "Controleren van Systeem Status, Even wachten a.u.b."
+
+#: ../inc/javascript.php:353
+msgid "Scanning Please Wait"
+msgstr "Scannen. Even wachten a.u.b."
+
+#: ../inc/javascript.php:358 ../inc/javascript.php:359
+#: ../inc/javascript.php:360
+msgid "unreadable"
+msgstr "onleesbaar"
+
+#: ../inc/javascript.php:361
+msgid "*Scan Error"
+msgstr "*Scan Fout"
+
+#: ../inc/javascript.php:362
+msgid "Files"
+msgstr "Bestanden"
+
+#: ../inc/javascript.php:362
+msgid "Folders"
+msgstr "Folders"
+
+#: ../inc/javascript.php:367
+msgid "error scanning directory"
+msgstr "fout tijden scannen directories"
+
+#: ../inc/javascript.php:397
+msgid "DATABASE"
+msgstr "DATABASE"
+
+#: ../inc/javascript.php:398
+msgid "PACKAGE"
+msgstr "PAKKET"
+
+#: ../inc/javascript.php:399
+msgid "INSTALLER"
+msgstr "INSTALLER"
+
+#: ../inc/javascript.php:418
+msgid "AJAX Response"
+msgstr "AJAX Reactie"
+
+#: ../inc/javascript.php:436
+msgid "Creating package may take several minutes. Please Wait... "
+msgstr "Het creëren van het pakket kan enkele minuten duren, Wachten a.u.b."
+
+#: ../inc/javascript.php:437
+msgid "Preview Log"
+msgstr "Voorbeeld Log"
+
+#: ../inc/page.about.php:17
+msgid "About"
+msgstr "Over"
+
+#: ../inc/page.about.php:18 ../inc/page.diag.php:22 ../inc/page.main.php:33
+#: ../inc/page.support.php:11
+msgid "By"
+msgstr "Door"
+
+#: ../inc/page.about.php:31
+msgid ""
+"Your LifeInTheGrid should be about working smarter not harder.  With the "
+"Duplicator you can streamline your workflows and quickly clone a WordPress "
+"site in minutes.  From Novice to Guru this plugin is designed for Bloggers, "
+"Admins, Developers, Designers, Entrepreneurs and anyone who uses WordPress."
+msgstr ""
+"Uw LifeInTheGrid is om slimmer te werken niet harder. Met de Duplicator kunt "
+"u uw workflows stroomlijnen en het snel kunnen klonen van een WordPress site "
+"in enkele minuten. Van beginner tot goeroe deze plugin is bedoeld voor "
+"bloggers, administrators, ontwikkelaars, ontwerpers, ondernemers en iedereen "
+"die gebruik maakt van WordPress."
+
+#: ../inc/page.about.php:33
+msgid ""
+"If you run into an issue feel free to submit a support ticket and visit our"
+msgstr ""
+"Als je in een probleem te voelen vrij om een ondersteunings ticket in te "
+"dienen en bezoek onze"
+
+#: ../inc/page.about.php:36
+msgid "knowledgebase"
+msgstr "kennisbank"
+
+#: ../inc/page.about.php:39
+msgid ""
+"We also offer premium priority support for those who need feedback within "
+"24-48hrs.  Please visit our "
+msgstr ""
+"Wij bieden ook premium prioritaire steun voor degenen die feedback nodig "
+"heeft binnen 24-48u. U Kunt terecht op onze"
+
+#: ../inc/page.about.php:40 ../inc/page.support.php:70
+msgid "service page"
+msgstr "servicepagina"
+
+#: ../inc/page.about.php:41
+msgid "for more details."
+msgstr "voor meer details."
+
+#: ../inc/page.about.php:50
+msgid "Support Duplicator"
+msgstr "Ondersteuning Duplicator"
+
+#: ../inc/page.about.php:62
+msgid ""
+"Consider a donation of any amount; it will take less than 60 seconds or "
+"about as fast as you can duplicate a site.  These proceeds help to cover "
+"development and support costs.  Thanks for your generosity!!"
+msgstr ""
+"Overweeg een donatie van enige bedrag; het zal minder dan 60 seconden kosten "
+"of ongeveer net zo snel als je een site kan dupliceren. Deze opbrengsten "
+"bijdragen aan de ontwikkeling en om de kosten te dekken. Dank voor uw "
+"vrijgevigheid !!"
+
+#: ../inc/page.about.php:74
+msgid "Help out by leaving a 5 star review on the"
+msgstr "Help door het plaatsen van een 5-sterren beoordeling op de"
+
+#: ../inc/page.about.php:75
+msgid "WordPress plugins directory"
+msgstr "WordPress plugins directory"
+
+#: ../inc/page.about.php:76
+msgid "and by giving your opinion on the survey below."
+msgstr "en door het geven van uw mening over de volgende enquête."
+
+#: ../inc/page.about.php:79
+msgid "Give us your Opinion?"
+msgstr "Geeft u ons uw mening?"
+
+#: ../inc/page.about.php:91
+msgid "Spread the Word"
+msgstr "Zegt het voort"
+
+#: ../inc/page.about.php:92
+msgid ""
+"Spreading the word gives the plugin a wider audience which helps to pool "
+"more resources to test/support/develop and participate to improve the "
+"plugin.  By getting the word out the Duplicator will continue to improve at "
+"a faster rate and harness the power of the open community to push the plugin "
+"further."
+msgstr ""
+"Verspreiden van het woord, geeft de plugin een breder publiek die helpt om "
+"meer middelen te bundelen om te testen / ondersteunen / ontwikkelen en om "
+"deel te nemen aan de plugin te verbeteren. Door het verspreiden van het "
+"woord, zal Duplicator blijven verbeteren in een sneller tempo en de kracht "
+"van de open gemeenschap om de plugin verder te duwen."
+
+#: ../inc/page.about.php:95
+msgid "Duplicate Your WordPress"
+msgstr "Dupliceer jouw Wordpress"
+
+#: ../inc/page.about.php:96
+msgid "Rapid WordPress Duplication by LifeInTheGrid.com"
+msgstr "Snel WordPress Duplicatie door LifeInTheGrid.com"
+
+#: ../inc/page.about.php:140 ../inc/page.support.php:23
+msgid "Knowledge Base"
+msgstr "Kennis Bank"
+
+#: ../inc/page.about.php:142
+msgid "Blog"
+msgstr "Blog"
+
+#: ../inc/page.about.php:143
+msgid "Labs"
+msgstr "Labs"
+
+#: ../inc/page.main.php:45 ../inc/page.main.php:86
+msgid "Package Name"
+msgstr "Pakket naam"
+
+#: ../inc/page.main.php:48
+msgid "Create Package"
+msgstr "Creër Pakket"
+
+#: ../inc/page.main.php:49
+msgid "Delete selected package(s)"
+msgstr "Verwijder geselecteerde pakket(en)"
+
+#: ../inc/page.main.php:52
+msgid "Options"
+msgstr "Opties"
+
+#: ../inc/page.main.php:53
+msgid "System Check"
+msgstr "Systeem Controle"
+
+#: ../inc/page.main.php:54
+msgid "Show Create Log"
+msgstr "Toon Creëer Log"
+
+#: ../inc/page.main.php:64
+msgid "Status"
+msgstr "Status"
+
+#: ../inc/page.main.php:65
+msgid "Ready to create new package"
+msgstr "Gereed om nieuw pakket te creëren"
+
+#: ../inc/page.main.php:81
+msgid "Select all packages"
+msgstr "Selecteer alle pakketten"
+
+#: ../inc/page.main.php:82
+msgid "Information"
+msgstr "Informatie"
+
+#: ../inc/page.main.php:83
+msgid "Owner"
+msgstr "Eigenaar"
+
+#: ../inc/page.main.php:84
+msgid "Created"
+msgstr "Gecreëerd"
+
+#: ../inc/page.main.php:85
+msgid "Size"
+msgstr "Groote"
+
+#: ../inc/page.main.php:88
+msgid "Package Set"
+msgstr "Pakket Set"
+
+#: ../inc/page.main.php:89
+msgid "(Download Both)"
+msgstr "(Download Beide)"
+
+#: ../inc/page.main.php:120 ../inc/page.main.php:148
+msgid "View"
+msgstr "Bekijk"
+
+#: ../inc/page.main.php:126 ../inc/view.options.php:10
+msgid "Installer"
+msgstr "Installer"
+
+#: ../inc/page.main.php:127 ../inc/page.main.php:156 ../inc/view.options.php:9
+msgid "Package"
+msgstr "Pakket"
+
+#: ../inc/page.main.php:133
+msgid "Version"
+msgstr "Versie"
+
+#: ../inc/page.main.php:134
+msgid "Secure Name"
+msgstr "Beveiligde Naam"
+
+#: ../inc/page.main.php:135
+msgid "Download SQL File"
+msgstr "Download SQL File"
+
+#: ../inc/page.main.php:136
+msgid "Show Download Links"
+msgstr "Vertoon Download Links"
+
+#: ../inc/page.main.php:162
+msgid "Legacy Version"
+msgstr "Legaat Versie"
+
+#: ../inc/page.main.php:165
+msgid ""
+"This package was built with a version that is no longer supported.  It is "
+"highly recommended that this package be deleted.  For more details see the"
+msgstr ""
+"Dit pakket is gebouwd met een versie die niet langer wordt ondersteund. Het "
+"is sterk aanbevolen om dit pakket te verwijderen. Voor meer details zie de"
+
+#: ../inc/page.main.php:166
+msgid "Online FAQs"
+msgstr "Online FAQs"
+
+#: ../inc/page.main.php:178
+msgid "No packages found"
+msgstr "Geen pakketten gevonden"
+
+#: ../inc/page.main.php:179
+msgid "To create a new package, enter a name and click the create button "
+msgstr ""
+"Om een ​​nieuw pakket te maken, voert u een naam in en klik op de knop Maken"
+
+#: ../inc/page.main.php:181
+msgid "Check your"
+msgstr "Controleer je"
+
+#: ../inc/page.main.php:182
+msgid "server's compatibility"
+msgstr "compatibiliteit server"
+
+#: ../inc/page.main.php:183
+msgid "with the duplicator"
+msgstr "met de duplicator"
+
+#: ../inc/page.main.php:184
+msgid "This process will backup all your files and database"
+msgstr "Dit proces zal back-up maken van al uw bestanden en database"
+
+#: ../inc/page.main.php:185
+msgid "Creating a package may take several minutes if you have a large site"
+msgstr ""
+"Het creëren van een pakket kan enkele minuten duren als u een grote site "
+"heeft"
+
+#: ../inc/page.main.php:186
+msgid "This window should remain open for the process to complete"
+msgstr "Dit venster moet open blijven voor het proces te voltooien"
+
+#: ../inc/page.main.php:187
+msgid "Please be patient while we work through this Beta version"
+msgstr "Wees geduldig terwijl we werken aan deze Beta versie"
+
+#: ../inc/page.main.php:188
+msgid "Please report any issues to"
+msgstr "Meld eventuele problemen naar"
+
+#: ../inc/page.main.php:205
+msgid "Total Storage Used"
+msgstr "Totaal Opslag Gebruikt"
+
+#: ../inc/page.support.php:28
+msgid ""
+"For a complete rundown of the Duplicator see the online knowledgebase by "
+"clicking the question button or any link below.   If you experience issues "
+"with creating or installing a package check out the FAQ page first."
+msgstr ""
+"Voor een complete lijst van de Duplicator zie de online kennisbank door te "
+"klikken op de desbetreffende knop of link hieronder. Als u problemen "
+"ondervindt met het maken of het installeren van een pakket raadpleeg de FAQ "
+"pagina eerst."
+
+#: ../inc/page.support.php:32
+msgid "Quick Start"
+msgstr "Snelle Start"
+
+#: ../inc/page.support.php:33
+msgid "User Guide"
+msgstr "Gebruikers Handleiding"
+
+#: ../inc/page.support.php:34
+msgid "FAQs"
+msgstr "FAQ's"
+
+#: ../inc/page.support.php:35
+msgid "Changelog"
+msgstr "Changelog"
+
+#: ../inc/page.support.php:42
+msgid "Approved Hosting"
+msgstr "Goedgekeurde Hosting"
+
+#: ../inc/page.support.php:48
+msgid ""
+"Not all hosting companies are created equal and to get the most out of the "
+"plugin we recommend using hosting providers that we do our own testing on.  "
+"Please visit our"
+msgstr ""
+"Niet alle hosting bedrijven zijn gelijk  en om het meeste uit de plugin te "
+"halen, raden wij het gebruik van hosting providers waarvan we onze eigen "
+"tests op doen. Kunt u terecht op onze"
+
+#: ../inc/page.support.php:51
+msgid "Approved Affiliate Hosting Program"
+msgstr "Gekeurde Partner Hosting Programma"
+
+#: ../inc/page.support.php:52
+msgid ""
+"and consider making a switch to hosts that we trust and have experienced "
+"good success with when using the Duplicator"
+msgstr ""
+"en overweeg om een overstap naar hosts die we vertrouwen en een goede "
+"ervaring met het gebruik van de Duplicator hebben."
+
+#: ../inc/page.support.php:59
+msgid "Online Support"
+msgstr "Online Ondersteuning"
+
+#: ../inc/page.support.php:66
+msgid ""
+"If you run into an issue and have already read the FAQs feel free to submit "
+"a support ticket and we will try our best to respond within 5-10 business "
+"days or sooner if possible."
+msgstr ""
+"Als je een probleem hebt en reeds de FAQ gelezen hebt, voel je vrij om een "
+"support ticket in te dienen en we zullen proberen ons best om te reageren "
+"binnen 5-10 werkdagen of zoveel eerder als mogelijk is."
+
+#: ../inc/page.support.php:69
+msgid "If you need priority support within 24-48hrs please visit our "
+msgstr ""
+"Als je prioriteit ondersteuning nodig hebt binnen 24-48u, kunt u terecht op "
+"onze"
+
+#: ../inc/page.support.php:71
+msgid ""
+"for more details.  Premium support is 100% refundable if we are unable to "
+"resolve your issue."
+msgstr ""
+"voor meer informatie. Premium ondersteuning wodt 100% terugbetaald als we "
+"niet in staat zijn om uw probleem op te lossen."
+
+#: ../inc/page.support.php:77
+msgid ""
+"Most issues that occur with the Duplicator revolve around how a server is "
+"configured.  In order to diagnose your issues we will require temporary "
+"admin accounts to your cPanel and WordPress Admin.  Please fill out the "
+msgstr ""
+"De meeste problemen die zich voordoen met de Duplicator draaien rond hoe een "
+"server is geconfigureerd. Om uw problemen te diagnosticeren zullen we "
+"tijdelijk admin accounts op uw cPanel en WordPress Admin vereisen. Vul dan "
+"het"
+
+#: ../inc/page.support.php:79
+msgid "Request Quote"
+msgstr "Offerte aanvragen"
+
+#: ../inc/page.support.php:80
+msgid "form and explain your issue in detail."
+msgstr "formulier en leg uw probleem in detail uit."
+
+#: ../inc/view.options.php:4
+msgid "Duplicator Options"
+msgstr "Duplicator Opties"
+
+#: ../inc/view.options.php:11
+msgid "System"
+msgstr "Systeem"
+
+#: ../inc/view.options.php:12
+msgid "FTP"
+msgstr "FTP"
+
+#: ../inc/view.options.php:22
+msgid "Processing"
+msgstr "Verwerking"
+
+#: ../inc/view.options.php:36
+msgid "Max Time"
+msgstr "Max Tijd"
+
+#: ../inc/view.options.php:36
+msgid "seconds"
+msgstr "seconden"
+
+#: ../inc/view.options.php:37
+msgid "Max Memory"
+msgstr "Max Geheugen"
+
+#: ../inc/view.options.php:45
+msgid "Email when completed"
+msgstr "Email wanneer klaar"
+
+#: ../inc/view.options.php:46
+msgid "WP-Admin email is included.  Add extra emails semicolon separated."
+msgstr ""
+"WP-Admin email is standaard, Voeg extra email toe, puntkomma gescheiden"
+
+#: ../inc/view.options.php:55
+msgid "Exclusion Filters"
+msgstr "Uitsluiting Filters"
+
+#: ../inc/view.options.php:57
+msgid "Directories"
+msgstr "Directories"
+
+#: ../inc/view.options.php:59
+msgid "Root Path"
+msgstr "Root Pad"
+
+#: ../inc/view.options.php:61
+msgid "File extensions"
+msgstr "File extensies"
+
+#: ../inc/view.options.php:64
+msgid "Separate all filters by semicolon"
+msgstr "Scheid alle filters d.m.v. puntkommas"
+
+#: ../inc/view.options.php:69
+msgid "Database Encoding"
+msgstr "Database coderen"
+
+#: ../inc/view.options.php:72
+msgid "Enable character conversion encoding"
+msgstr "Schakel karakter conversie codering in"
+
+#: ../inc/view.options.php:77
+msgid "From"
+msgstr "Van"
+
+#: ../inc/view.options.php:78
+msgid "to"
+msgstr "naar"
+
+#: ../inc/view.options.php:79
+msgid "Disable this option for extended or double byte character sets"
+msgstr "Schakel deze optie uit  voor verlengde of dubbele byte tekenset"
+
+#: ../inc/view.options.php:86
+msgid ""
+"Having issues saving these options?  Temporarily disable all 'Object "
+"Caches' (i.e. W3C Total Object Cache)"
+msgstr ""
+"Problemen met het bewaren van deze opties? Schakel tijdelijk alle 'Object "
+"Caches' ​uit (d.w.z. W3C Totaal Object Cache)"
+
+#: ../inc/view.options.php:96
+msgid "Settings Defaults"
+msgstr "Standaard Instellingen"
+
+#: ../inc/view.options.php:99
+msgid "Install URL"
+msgstr "Instal URL"
+
+#: ../inc/view.options.php:106
+msgid "Database Defaults"
+msgstr "Database Standaard Instellingen"
+
+#: ../inc/view.options.php:109
+msgid "Host"
+msgstr "Host"
+
+#: ../inc/view.options.php:113 ../inc/view.system.php:8
+msgid "Name"
+msgstr "Naam"
+
+#: ../inc/view.options.php:117
+msgid "User"
+msgstr "Gebruiker"
+
+#: ../inc/view.options.php:122
+msgid ""
+"The installer can have these fields pre-filled at install time.  These "
+"values are optional."
+msgstr ""
+"De installer kan deze velden vooraf gevuld hebben tijdens de installatie. "
+"Deze waarden zijn optioneel."
+
+#: ../inc/view.options.php:129
+msgid "Uninstall Options"
+msgstr "Deinstaleer Opties"
+
+#: ../inc/view.options.php:132
+msgid "Delete entire snapshot directory when removing plugin"
+msgstr ""
+"Verwijder gehele momentopname directorie, tijdens het verwijderen van de "
+"plugin"
+
+#: ../inc/view.options.php:133
+msgid "Snapshot Directory"
+msgstr "Momentopname Directorie"
+
+#: ../inc/view.options.php:161
+msgid "Save"
+msgstr "Bewaar"
+
+#: ../inc/view.options.php:162
+msgid "Close"
+msgstr "Sluit"
+
+#: ../inc/view.system.php:3
+msgid "Package Creation"
+msgstr "Pakket Creatie"
+
+#: ../inc/view.system.php:5
+msgid "Create a new Package Set?"
+msgstr "Creëer een nieuwe pakket set"
+
+#: ../inc/view.system.php:10 ../inc/view.system.php:212
+msgid "Pre-Zip Overview"
+msgstr "Pre-Zip Overzicht"
+
+#: ../inc/view.system.php:12
+msgid "Perform Scan"
+msgstr "Uitvoer Scan"
+
+#: ../inc/view.system.php:18
+msgid ""
+"Note: A scan will provide an estimate on the size of your file system.  The "
+"scan will exclude items in the"
+msgstr ""
+"Opmerking: Een scan zal een schatting van de grootte van uw bestandssysteem "
+"bieden. De scan sluit items uit die in de "
+
+#: ../inc/view.system.php:19
+msgid "directory filter list"
+msgstr "directorie filter lijst"
+
+#: ../inc/view.system.php:20
+msgid ""
+"Files that are not readable by the plugin will not be included in the "
+"overview.  Directories that are empty will not be included in the final "
+"package. "
+msgstr ""
+"Bestanden die niet leesbaar zijn door de plugin, zijn niet opgenomen in het "
+"overzicht. Directories die leeg zijn zullen niet worden opgenomen in het "
+"definitieve pakket."
+
+#: ../inc/view.system.php:29
+msgid "System Constraint"
+msgstr "System Constraint"
+
+#: ../inc/view.system.php:32
+msgid "Please try again! An issue has occurred."
+msgstr "Probeer het opnieuw! Er is een probleem opgetreden."
+
+#: ../inc/view.system.php:36
+msgid "Recommendations"
+msgstr "Aanbevelingen"
+
+#: ../inc/view.system.php:41
+msgid "Validate"
+msgstr "Valideer"
+
+#: ../inc/view.system.php:42
+msgid "your system"
+msgstr "jouw systeem"
+
+#: ../inc/view.system.php:43
+msgid "refresh"
+msgstr "vernieuw"
+
+#: ../inc/view.system.php:44
+msgid "the dashboard."
+msgstr "de dashboard"
+
+#: ../inc/view.system.php:48
+msgid "Monitor"
+msgstr "Monitor"
+
+#: ../inc/view.system.php:49
+msgid ""
+"your log file a few more minutes as processing may continue on some systems"
+msgstr ""
+"je logbestand een paar minuten als verwerking kan doorgaan op sommige "
+"systemen"
+
+#: ../inc/view.system.php:52
+msgid ""
+"Contact your server admin to have the page timeout increased (see duration "
+"below)"
+msgstr ""
+"Neem contact op met uw server administrator, om de pagina time-out te "
+"vergroten (zie duur hieronder)"
+
+#: ../inc/view.system.php:53
+msgid ""
+"Consider adding a directory filter in the options dialog if the process "
+"continues to timeout"
+msgstr ""
+"Overweeg het toevoegen van een directory-filter in het dialoogvenster Opties "
+"als het proces blijft een time-out geven"
+
+#: ../inc/view.system.php:54
+msgid "Check your disk space.  For hosted sites review your providers help."
+msgstr ""
+"Controleer uw schijfruimte. Voor gehoste sites bekijk de helppagina van uw "
+"provider."
+
+#: ../inc/view.system.php:57
+msgid "Consider using an"
+msgstr "Overweeg het gebruik van een"
+
+#: ../inc/view.system.php:59
+msgid "approved"
+msgstr "goedgekeurd"
+
+#: ../inc/view.system.php:60
+msgid "hosting provider."
+msgstr "hosting provider."
+
+#: ../inc/view.system.php:64
+msgid "Server Response"
+msgstr "Server Reactie"
+
+#: ../inc/view.system.php:69
+msgid "See online help for more details at"
+msgstr "Raadpleeg de online help, voor meer informatie op"
+
+#: ../inc/view.system.php:79
+msgid "System Status"
+msgstr "Systeem Status"
+
+#: ../inc/view.system.php:82
+msgid "Please validate your system configuration."
+msgstr "Valideer van uw systeemconfiguratie."
+
+#: ../inc/view.system.php:83
+msgid "Click link for details"
+msgstr "Klik op de link voor meer details"
+
+#: ../inc/view.system.php:92
+msgid "SYSTEM REQUIRMENTS"
+msgstr "SYSTEEM EISEN"
+
+#: ../inc/view.system.php:93
+msgid "File Permissions"
+msgstr "Bestand Machtigingen"
+
+#: ../inc/view.system.php:96
+msgid "Required permissions"
+msgstr "Verplichte machtigingen"
+
+#: ../inc/view.system.php:113
+msgid ""
+"The above paths should have permissions of 755 for directories and 644 for "
+"files. On some hosts the permission set requires 777.  Setting items to 777 "
+"is a security issue and should only be set temporarily.  Please avoid any "
+"hosting company that requires this kind of setup.  See the 'Duplicator "
+"Approved' link at the bottom of this dialog for a list of approved hosting "
+"providers."
+msgstr ""
+"De bovenstaande paden moeten machtiging 755 voor mappen en 644 voor "
+"bestanden hebben. Op sommige host  wordt machtiging  777 vereist , items "
+"naar 777 is een beveiligingsprobleem en mag alleen tijdelijk worden "
+"ingesteld. Vermijd elk hosting bedrijf dat dit soort setup vereist. Zie de "
+"'Duplicator Approved' link aan de onderkant van deze dialoog voor een lijst "
+"van goedgekeurde hosting providers."
+
+#: ../inc/view.system.php:116
+msgid ""
+"Also be sure to check the Owner/Group settings and validate they are correct "
+"and match other successful directories/files that are accessible.  For more "
+"details contact your host or visit their help pages for more information on "
+"how they implement permissions and group settings."
+msgstr ""
+"Ook moet u de eigenaar / groep instellingen controleren en valideren of ze "
+"correct zijn en overeenkomen met andere succesvolle mappen / bestanden die "
+"toegankelijk zijn. Neem voor meer informatie contact op met uw gastheer of "
+"bezoek hun help pagina's voor meer informatie over hoe ze de machtigingen en "
+"de groep instellingen implementeren."
+
+#: ../inc/view.system.php:123
+msgid "Reserved Files"
+msgstr "Gereserveerde bestanden"
+
+#: ../inc/view.system.php:126
+msgid ""
+"If this check fails then a reserved file was found in the WordPress root "
+"directory. The following are reserved file names installer.php, installer-"
+"data.sql and installer-log.txt.  In order to archive your data correctly "
+"please remove any of these files from your WordPress root directory. Then "
+"try creating your package again."
+msgstr ""
+"Als dit niet lukt dan is een gereserveerde bestand te vinden in de WordPress "
+"root directory. De volgende zijn voorbehouden bestandsnamen installer.php, "
+"installerr-data.sql en installer-log.txt. Om uw gegevens correct archiveren "
+"verwijder dan een van deze bestanden van uw WordPress hoofdmap. Probeer "
+"vervolgens opnieuw maken van uw pakket."
+
+#: ../inc/view.system.php:131
+msgid "Zip Archive Enabled"
+msgstr "Zip archief Ingeschakeld"
+
+#: ../inc/view.system.php:134
+msgid ""
+"The ZipArchive extension for PHP is required for compression.  Please "
+"contact your hosting provider if you're on a hosted server.  For additional "
+"information see our online documentation."
+msgstr ""
+"De ZipArchive extensie voor PHP is vereist voor compressie. Neem contact op "
+"met uw hosting provider als je op een gehoste server zit. Voor meer "
+"informatie zie onze online documentatie."
+
+#: ../inc/view.system.php:139
+msgid "Safe Mode Off"
+msgstr "Veilige Modus Uit"
+
+#: ../inc/view.system.php:142
+msgid ""
+"Safe Mode needs to be disabled in order for the Duplicator to operate "
+"correctly.  Please set safe_mode = Off in you php.ini file.  If you're on a "
+"hosted server and don't have access to the php.ini file then you will need "
+"to request this setting be updated. Safe Mode is no longer in future "
+"versions of PHP.  If your host will not work with you to resolve the issue "
+"then consider a higher reputable hosting provider."
+msgstr ""
+"Veilige modus moet worden uitgeschakeld, zodat de Duplicator correct kan "
+"werken. Stel safe_mode = Uit in je php.ini bestand. Als je op een gehoste "
+"server zit en hebben geen toegang hebt tot het php.ini bestand, dan zal je "
+"nodig hebt om te vragen deze instelling worden bijgewerkt. Veilige modus is "
+"niet meer in toekomstige versies van PHP. Als je host niet zal samen met u "
+"om het probleem op te lossen dan overwegen een hoger gerenommeerde hosting "
+"provider."
+
+#: ../inc/view.system.php:147
+msgid "MySQLi Support"
+msgstr "MySQLi Ondersteuning"
+
+#: ../inc/view.system.php:150
+msgid ""
+"In order to complete an install the mysqli extension for PHP is required. If "
+"you are on a hosted server please contact your host and request that mysqli "
+"extension be enabled. For more information visit: http://php.net/manual/en/"
+"mysqli.installation.php"
+msgstr ""
+"Om te voltooien is een installatie de mysqli extensie voor PHP vereist. Als "
+"u op een gehoste server zit, neem contact op met uw provider en vraag dat "
+"mysqli extensie worden ingeschakeld. Voor meer informatie bezoek: http://php."
+"net/manual/en/mysqli.installation.php"
+
+#: ../inc/view.system.php:159
+msgid "SYSTEM CHECKS"
+msgstr "SYSTEEMCONTROLES"
+
+#: ../inc/view.system.php:162
+msgid "PHP Version"
+msgstr "PHP versie"
+
+#: ../inc/view.system.php:164 ../inc/view.system.php:176
+#: ../inc/view.system.php:200
+msgid "Good"
+msgstr "Goed"
+
+#: ../inc/view.system.php:166 ../inc/view.system.php:179
+#: ../inc/view.system.php:182 ../inc/view.system.php:185
+#: ../inc/view.system.php:188
+msgid "OK"
+msgstr "OKE"
+
+#: ../inc/view.system.php:167
+msgid "PHP 5.2.17+ is required"
+msgstr "PHP 5.2.17+ is benodigd"
+
+#: ../inc/view.system.php:169 ../inc/view.system.php:191
+#: ../inc/view.system.php:203
+msgid "Fail"
+msgstr "Fout"
+
+#: ../inc/view.system.php:175 ../inc/view.system.php:178
+#: ../inc/view.system.php:181 ../inc/view.system.php:184
+#: ../inc/view.system.php:187 ../inc/view.system.php:190
+msgid "Web Server"
+msgstr "Web Server"
+
+#: ../inc/view.system.php:190
+msgid "Not detected"
+msgstr "Niets gedetecteerd"
+
+#: ../inc/view.system.php:199 ../inc/view.system.php:202
+msgid "Open Base Dir"
+msgstr "Open Base Dir"
+
+#: ../inc/view.system.php:199
+msgid "Off"
+msgstr "Uit"
+
+#: ../inc/view.system.php:202
+msgid "On"
+msgstr "Aan"
+
+#: ../inc/view.system.php:209
+msgid "PHP SAPI"
+msgstr "PHP SAPI"
+
+#: ../inc/view.system.php:214
+msgid "Scan Now"
+msgstr "Scan Nu"
+
+#: ../inc/view.system.php:223
+msgid "Cache Directory Found"
+msgstr "Cache Directorie Gevonden"
+
+#: ../inc/view.system.php:224
+msgid "Add to exclusion path now"
+msgstr "Voeg nu het uitsluiting pad toe"
+
+#: ../inc/view.system.php:226
+msgid "Directory excluded"
+msgstr "Uitgesloten Directorie"
+
+#: ../inc/view.system.php:227
+msgid "Path"
+msgstr "Pad"
+
+#: ../inc/view.system.php:229
+msgid "Cache Directory Not Found"
+msgstr "Cache Directorie Niet Gevonden"
+
+#: ../inc/view.system.php:235
+msgid "ONLINE RESOURCES"
+msgstr "ONLINE REMEDIES"
+
+#: ../inc/view.system.php:240
+msgid "For additional online help please visit"
+msgstr "Voor meer online hulp kunt u terecht op"
+
+#: ../inc/view.system.php:246
+msgid "Need a hosting provider that is"
+msgstr "Benodigd van een hosting provider die is"
+
+#: ../inc/view.system.php:248
+msgid "Duplicator Approved"
+msgstr "Duplicator Goedgekeurd"
+
+#: ../inc/view.system.php:259
+msgid "Download Links"
+msgstr "Download Links"
+
+#: ../inc/view.system.php:262
+msgid "The following links contain sensitive data.  Please share with caution!"
+msgstr ""
+"De volgende links bevatten gevoelige gegevens. Gelieve te delen met de "
+"nodige voorzichtigheid!"
+
+#: ../inc/view.system.php:268
+msgid ""
+"The database SQL script is a quick link to your database backup script.  An "
+"exact copy is also stored in the package."
+msgstr ""
+"De database SQL-script is een snelle link naar de database back-up script. "
+"Een exacte kopie wordt opgeslagen in het pakket."
